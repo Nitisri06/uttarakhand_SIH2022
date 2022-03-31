@@ -31,7 +31,7 @@ Api used: weatherapi.com
 
 
 ## Team members:
-1.[Nitisri T S]()
+1.[Nitisri T S](https://github.com/Nitisri06)
 
 2.[Sangeetha D](https://github.com/sangeethadhanasekar)
 
